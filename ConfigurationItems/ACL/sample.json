@@ -1,0 +1,5 @@
+{
+  "aclname": "myACL",
+  "allowList": ["myUser", "myGroup"],
+  "denyList": ["myUser", "myGroup"]
+}
